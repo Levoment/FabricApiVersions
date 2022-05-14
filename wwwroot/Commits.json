@@ -1,0 +1,198 @@
+{
+    "19w07a": {
+        "GitCommits": [
+            "8bbfcdcb4b36b59fe1320a2e48378c3001ba42f4",
+            "133913f4204fd0cb8241e3f4c69017ca20963e98",
+            "682afc73a4e652100672f9db1a649108d2205b89",
+            "c11457535461a818ab5e3f7d967fbaee28d046b8",
+            "9101ee4ee98aa1a26acfc1181ccd681ff6e5c6ea",
+            "8c0584bbaf15d3c63ba38e35dfc90eae2cd73ecc",
+            "8243775b5cfc2108245d8cfb5a7dd1cc2c661e69",
+            "e7fad09f14f117879f94d9b3b18e53b921572c8f",
+            "b83fbda9e50f141336a47818cd6b1b3de34d413f",
+            "1794cc24116a4a0ab61f5eaa4eb03f33e42ad55d"
+        ]
+    },
+    "19w12a": {
+        "GitCommits": [
+            "ba5cad832080611da3f71d39523e8a2974af5f04",
+            "20c98824b9ffca7e9ff0080941627a5f12a10792"
+        ]
+    },
+    "19w14b": {
+        "GitCommits": [
+            "d6e85e22192c7d824572668f54a5bf81eec3bc78",
+            "7f97ddb3bca84481cfd7990afcfb8d083b6b81e0",
+            "79f91b4c7eaed473b4277893bb9bb39e7aa4dd82",
+            "20832149f8a59cdf49fa15d4a5d53656bbc184aa"
+        ]
+    },
+    "1.14 Pre-Release 4": {
+        "GitCommits": [
+            "1b8a889c5b8fdb81ecaadeb5a73d0231f2197b91",
+            "4b9097bcf1cd255725e7e9fde410629c8deaab17"
+        ]
+    },
+    "1.14": {
+        "GitCommits": [
+            "76a554fbb7138ad944adca8108bf79ac942cef8a"
+        ]
+    },
+    "1.14.1": {
+        "GitCommits": [
+            "365f76fbd366ffdc2296e2b1cdf0aa3a17a8310c",
+            "e85c762e2167ae522510c0197af38e260e7ab6d8",
+            "004f6720ab3bca92971af705f9fe190da9487e99"
+        ]
+    },
+    "1.14.2": {
+        "GitCommits": [
+            "2e1903f7d2e9ab436af0363c172085cb57906291",
+            "78fb3e428814715d621551ef66e3f81627767491",
+            "97c2c8c2f1ef5f1ae8853ab29e4e1cbf273e3d7f",
+            "9c04d84e90487fc42f851ae0e3b2238a07c23ea2"
+        ]
+    },
+    "1.14.3": {
+        "GitCommits": [
+            "1962995275c46e58a01772158b2c3b29d2be36a5",
+            "2b8fe8c5b3cb16228f0b9b4b3540147a4ceb0c24"
+        ]
+    },
+    "1.14.4": {
+        "GitCommits": [
+            "0022be8092822d0e05d7187aa6e402416c80c6bc",
+            "706e20caf64b6a4de067142020326e4460f39ce9",
+            "47b5686c4f95f2e75403e8cf8f1156186ac8ab37",
+            "01bf2f5a56646852cfee359bd939bb193e22d7f7",
+            "727a449d61e58c39ff5c236b1275aa89d9fc54ff",
+            "705d4da55b9a514e5e7279a2ea5becaf039cf2d0"
+        ]
+    },
+    "1.15": {
+        "GitCommits": [
+            "97a962625c91e709ac365b26ffac49e601242afd",
+            "c3daefbee9d79ecb99eaddfd62a51b9f461d136f"
+        ]
+    },
+    "1.15.1": {
+        "GitCommits": [
+            "52da86e9e3b668aacdd85ccc88d2270ff4649103"
+        ]
+    },
+    "1.15.2": {
+        "GitCommits": [
+            "18fd282e3e0cc4752d5e34a4360f57f54fd11b64",
+            "b38f2b0f52513a0e63d09ec540b272ad9be287fb",
+            "0028e328c82d5250a192817815e5ca1e3336fae3",
+            "01ae0cd3abefb1a27f79a6e380e021535085c841",
+            "79266b6c231450e00efa7cb94d48c8747e66f57c",
+            "19fa3a76bce814ece51c8bcdec12771e4c6394a1",
+            "8d952c922d566bd386d76108c222baa2e2cc5d33",
+            "167b0584072ca1ae5fb1cfac0a162606a5c4d02c"
+        ]
+    },
+    "1.16": {
+        "GitCommits": [
+            "829b170190033cf59f3e4488d35b5401be8f5af4"
+        ]
+    },
+    "1.16.1": {
+        "GitCommits": [
+            "6efb5c4830dd5afcdeceb34e459da47c0ec350a9"
+        ]
+    },
+    "1.16.2": {
+        "GitCommits": [
+            "f9b7d47979a677f98f1d56e0870efcec5f431e95"
+        ]
+    },
+    "1.16.3": {
+        "GitCommits": [
+            "46dc3e2dabf7631ac29921cfb3c42eb6be58f107",
+            "4237368e648916f22871126b3bea5260684eb9e9",
+            "54035654b75dd756d98f89fde179cb49183a6d68",
+            "90cb78d4127924ad97f23f7221c68d3d345f1358"
+        ]
+    },
+    "1.16.4": {
+        "GitCommits": [
+            "a126c7916aaea2e42e764ce6d15a87cc7a313d56",
+            "ad0752fe78ee48d3f1212163c9e9a541e8e5c3ba"
+        ]
+    },
+    "1.16.5": {
+        "GitCommits": [
+            "16101f0bffeac3988b484c77284d38a0e61ab4c4",
+            "7971a5fcfd50db151346ed110851b0d6a48cb47f",
+            "171c0a228af55a644d792db685e152e5cf476197",
+            "8299566cf7ae3bc6ac088e821fd26d26d97e4229",
+            "4cccd73df9ca7e1cab6b516bb8522c2473a11d9a",
+            "bdfab7a0cf4c3edb25bce90b0ecf4a5fd803376a",
+            "29c522536fc16233833221e22eed3f106c0726bc",
+            "62a3d3ce3b205e8f2067839d70bc61cc44f5395b"
+        ]
+    },
+    "21w19a": {
+        "GitCommits": [
+            "50f0be767c69f3ac49c3a2c4c8669354a39fd9b3"
+        ]
+    },
+    "1.17-pre1": {
+        "GitCommits": [
+            "b51afe9fc0551bc82ec0d25a193ecaea90bee0fe"
+        ]
+    },
+    "1.17": {
+        "GitCommits": [
+            "fda2a1cf1e329ed33f111d3e29d3269faf94d597",
+            "28e2282fc9fe25e8516bf7b85f12fd113881f512",
+            "b662ed74bf3365fb2e5eca0715db96f7933f046b"
+        ]
+    },
+    "1.17.1": {
+        "GitCommits": [
+            "d27b836caeff1d3102a398294e2ae39383fc721b",
+            "27c0acc531f739c84108c758115af77c9c3a2a33",
+            "9df9227ee7bc0cca03f248d322941ddb1dcaaed6",
+            "3829e2132d320f523565aff3c91716151028597c",
+            "4753eb5935a25efe1e58c4aa519c1904e556e912",
+            "8727262edd895d0b1a745463332bc05a2e493268",
+            "6f47013653157e1e262f0db8c20da26f045d3806",
+            "8adede095a379f0f18984d1ec2b4a46a4b5d29a7",
+            "c8d88521ed2f605746ce72bb3b6049c649b7814e",
+            "466c1a804a8a239e477aeaa851bf983cd5a4c1d7"
+        ]
+    },
+    "1.18-pre2": {
+        "GitCommits": [
+            "57e84b576d24f1b80e1701d4759773234b1ee8ba",
+            "4616cda6ce0cc4410e049f129c07ad47c8de776d"
+        ]
+    },
+    "1.18": {
+        "GitCommits": [
+            "ffa316b7d7963e6a5358a540a6b661a8e4748a4f",
+            "468c32cdb324494ae2548957a5d2b203722af018"
+        ]
+    },
+    "1.18.1": {
+        "GitCommits": [
+            "8577b9ae74cf7a23b03ace9ae16819777a303418",
+            "f850de2e5acf0e6564de9e05be86de97cd50611d",
+            "c6ddc8bae237ab38f7dcecdf8adafd5be588e550",
+            "4d8fff9ec6695b7d9a54a23e2efc1c47dce20ef3",
+            "662a7f1b33c046bb8c7a2ae1caf63d3a796b7eb0",
+            "630618c6b408682ebbe3647c7afaf14982be39d2",
+            "1e60757a4c69edcaaa1c0e426281cc81d1c1a611",
+            "9c10726cdc7e5deda9f13dab0839c039e605509d"
+        ]
+    },
+    "1.18.2": {
+        "GitCommits": [
+            "06e3e43ee0662fd1afecebb428cb04cdc271b0ab",
+            "283fa1c518b559a6391a3605f500a1506ba9cd3c"
+        ]
+    },
+    "Latest": "283fa1c518b559a6391a3605f500a1506ba9cd3c"
+}
