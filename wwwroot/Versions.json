@@ -1,9 +1,10 @@
 {
     "22w19a": {
         "APIVersions": [
-            "0.52.2+1.19"
+            "0.52.2+1.19",
+            "0.52.3+1.19"
         ],
-        "LatestVersion": "0.52.2+1.19"
+        "LatestVersion": "0.52.3+1.19"
     },
     "22w18a": {
         "APIVersions": [
