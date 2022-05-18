@@ -1,5 +1,11 @@
 {
     "Versions": {
+        "1.19-pre1": {
+            "APIVersions": [
+                "0.52.4+1.19"
+            ],
+            "LatestVersion": "0.52.4+1.19"
+        },
         "22w19a": {
             "APIVersions": [
                 "0.52.2+1.19",
