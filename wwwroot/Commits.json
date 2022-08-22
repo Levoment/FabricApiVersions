@@ -201,9 +201,17 @@
             "GitCommits": [
                 "0c1c11065062c745ce49529e9bee48b05aa4bc41"
             ]
-            
-            
+        },
+        "1.19.1": {
+            "GitCommits": [
+                "b242df2716bf03fdb13b64980c5c6d96489437e9"
+            ]
+        },
+        "1.19.2": {
+            "GitCommits": [
+                "731e568ad487b8f7dfbedf22eaca9b12cb3e754d"
+            ]
         }
     },
-    "Latest": "0c1c11065062c745ce49529e9bee48b05aa4bc41"
+    "Latest": "731e568ad487b8f7dfbedf22eaca9b12cb3e754d"
 }
