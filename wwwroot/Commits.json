@@ -209,9 +209,13 @@
         },
         "1.19.2": {
             "GitCommits": [
-                "731e568ad487b8f7dfbedf22eaca9b12cb3e754d"
+                "731e568ad487b8f7dfbedf22eaca9b12cb3e754d",
+                "242f56a70245d99e7463d3f76f4af8038398bd5a",
+                "009f258b565d5d5fcc9839a873c765852bd18de6",
+                "bc4ffe06d1f1c0b420d7350664f79a83718616ae",
+                "da14f8fd89f90fad11a625adafad43f9dc5a3ded"
             ]
         }
     },
-    "Latest": "731e568ad487b8f7dfbedf22eaca9b12cb3e754d"
+    "Latest": "da14f8fd89f90fad11a625adafad43f9dc5a3ded"
 }
