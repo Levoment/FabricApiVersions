@@ -215,7 +215,15 @@
                 "bc4ffe06d1f1c0b420d7350664f79a83718616ae",
                 "da14f8fd89f90fad11a625adafad43f9dc5a3ded"
             ]
+        },
+        "1.19.3": {
+            "GitCommits": [
+                "9cfe28c5eab9cafdd1ffd24611989b04b7e1926a",
+                "86fc994be16b3931825b9c0f0d030060a841ede4",
+                "b7fa9bd7b5d4b74dccabae152e77e7935fc2960d",
+                "3bf9aa7f113f0c6c78e1976fd45e499b80fa3325"
+            ]
         }
     },
-    "Latest": "da14f8fd89f90fad11a625adafad43f9dc5a3ded"
+    "Latest": "3bf9aa7f113f0c6c78e1976fd45e499b80fa3325"
 }
